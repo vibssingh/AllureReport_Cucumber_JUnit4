@@ -4,11 +4,15 @@
 ````
 Cucumber – 7.15.0
 Java 17
-TestNG – 7.9.0
+JUnit – 4.13.2
+Allure Bom - 2.25.0
+AspectJ - 1.9.21
+Allure Maven - 2.12.0
 Maven – 3.9.6
 Selenium - 4.16.1
 Maven Compiler Plugin - 3.12.1
 Maven Surefire Plugin - 3.2.3
+
 ````
 
 2. To run the tests, use the below command
